@@ -1,5 +1,5 @@
 
-![image|324x199](upload://zhUPvg4Y3LYBtHytZdzgeOYQEt8.png)
+
 # Way Drug Sell
 
  Way Drug Sell is a **free** FiveM script that adds interactive and customizable drug selling mechanics to your server. Players can sell drugs using various interactions such as items, props,  commands, or NPC targets. The script includes features like configurable customer locations, animations, and inventory checks to ensure an immersive experience. Fully configurable and optimized, this script is perfect for enhancing roleplay servers.
@@ -42,7 +42,9 @@ More updates coming soon!
 [DISCORD](https://discord.gg/Nra3kw48wr)
 
 
-### Showcase
 
-![image|260x500](upload://dwzE3Crv0byBbnAYv5FbmBaBuWP.jpeg)
-![image|424x500](upload://vluF2v7HbYAki5tQfv8cdCIHQ8G.jpeg)
+### Showcase
+![Snímek obrazovky 2025-01-11 110601](https://github.com/user-attachments/assets/57bea1e8-242d-4802-b0ef-82428a5ee399)
+![Snímek obrazovky 2025-01-11 110456](https://github.com/user-attachments/assets/b3fb6219-3f0e-45fb-ab38-b44dbaf2dc3a)
+![Snímek obrazovky 2025-01-11 110400](https://github.com/user-attachments/assets/10d62e68-cf76-401f-98f7-b6c3f255f6e0)
+
