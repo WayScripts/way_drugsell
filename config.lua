@@ -36,7 +36,8 @@ Config.SellAnimation = {
     dict = 'mp_common',
     anim = 'givetake1_a',
     duration = 3000 -- 
- 
+}
+
  Config.CallAnimation = {
      dict = 'amb@code_human_wander_texting_fat@male@base',
      anim = 'static',
